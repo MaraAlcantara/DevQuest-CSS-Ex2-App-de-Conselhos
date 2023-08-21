@@ -1,0 +1,11 @@
+@media(min-width: 768px) {
+    .cartao {
+        padding-inline: 50px;
+        width: 386px;
+    }
+
+    .cartao p{
+        font-size: 21px;
+        padding: 26px;
+    }
+}
